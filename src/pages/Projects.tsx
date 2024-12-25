@@ -14,25 +14,25 @@ const projects = [
     year: '2024',
     title: 'Compliance Guru',
     description: 'AI-powered compliance platform ',
-    video: '/dev/Compliance_Guru.mov',
+    video: '/dev/Compliance_Guru.mp4',
   },
   {
     year: '2024',
     title: 'Pluck',
     description: 'Platform Connecting Small Business to MicroInfluencer',
-    video: '/dev/Pluck.mov',
+    video: '/dev/Pluck.mp4',
   },
   {
     year: '2024',
     title: 'BestyAI - Redesign',
     description: 'Redesigned Website for BestyAI',
-    video: '/dev/BestyAI.mov',
+    video: '/dev/BestyAI.mp4',
   },
   {
     year: '2024',
     title: 'Service Performance Dashboard',
     description: 'Dashboard to monitor performance of applications',
-    video: '/dev/Service_Performance.mov',
+    video: '/dev/Service_Performance.mp4',
   },
 ];
 
